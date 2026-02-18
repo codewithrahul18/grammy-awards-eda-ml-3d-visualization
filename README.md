@@ -154,7 +154,7 @@ grammy-awards-eda-ml-3d-visualization/
 ├── artist_success_scores.csv    ← Artist scoring output
 ├── LICENSE                      ← MIT License
 └── assets/
-    └── screenshot_sunburst.png  ← Visualization preview
+    └── GRAMMY.png  ← Visualization preview
 ```
 
 ---

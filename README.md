@@ -34,7 +34,7 @@ The Grammy Awards are the most prestigious recognition in the music industry. Th
 
 ## 📊 Advanced Visualization Preview
 
-![Sunburst Chart](assets/screenshot_sunburst.png)
+![Sunburst Chart](sunburst.png)
 *Interactive Sunburst — Full Grammy taxonomy from Era → Award Group → Category*
 
 ---

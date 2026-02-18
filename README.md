@@ -17,7 +17,7 @@
 **RAHUL CHAUHAN**
 
 [![GitHub](https://img.shields.io/badge/GitHub-codewithrahul18-181717?style=flat-square&logo=github)](https://github.com/codewithrahul18)
-[![Kaggle](https://img.shields.io/badge/Kaggle-codewithrahul18-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/rahulchauhan016)
+[![Kaggle](https://img.shields.io/badge/Kaggle-rahulchauhan016-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/rahulchauhan016)
 
 ---
 
@@ -140,7 +140,7 @@ Get the dataset from [Kaggle](https://www.kaggle.com) and place the CSV at:
 
 **4. Launch the notebook**
 ```bash
-jupyter notebook grammy_improved.ipynb
+jupyter notebook grammy-awards-eda-visualization-ml-1959-2026.ipynb
 ```
 
 ---
@@ -150,7 +150,7 @@ jupyter notebook grammy_improved.ipynb
 ```
 grammy-awards-eda-ml-3d-visualization/
 │
-├── grammy_improved.ipynb        ← Main analysis notebook
+├── grammy-awards-eda-visualization-ml-1959-2026.ipynb       ← Main analysis notebook
 ├── README.md                    ← Project documentation
 ├── cleaned_grammy_data.csv      ← Cleaned dataset output
 ├── artist_success_scores.csv    ← Artist scoring output

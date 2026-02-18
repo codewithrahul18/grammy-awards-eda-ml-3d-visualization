@@ -34,7 +34,7 @@ The Grammy Awards are the most prestigious recognition in the music industry. Th
 
 ## 📊 Advanced Visualization Preview
 
-![Grammy Analytics Banner](./assets/grammy_readme_banner.png)
+![Grammy Analytics Banner](GRAMMY.png)
 ---
 
 ## 🔍 Project Workflow
